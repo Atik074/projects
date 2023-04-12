@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 10px;
+}
+.nav-container h2{
+    color: #1A1919;
+    font-size: 42px;
+    font-weight: 800;
+}
+.nav-item  a{
+    margin: 0px 30px;
+   
+}
+

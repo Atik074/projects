@@ -1,0 +1,45 @@
+.single-job-features{
+    border: 3px solid rgb(17, 117, 204);
+    border-radius: 8px;
+    padding: 30px;
+    width: 70%;
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    margin: 10px 50px;
+   
+ 
+}
+.features-title{
+    font-weight: 800;
+    font-size: 25px;
+}
+.company {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+.single-job-features img{
+    width: 70%;
+}
+.btn-job-type{
+    margin-right: 30px;
+}
+.features-location-salary{
+    display: flex;
+    align-items: center;
+    
+}
+
+.features-location-salary p{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-right: 30px;
+}
+.features-location-salary p small{
+    font-size: 25px;
+    margin-right: 7px;
+}
+.features-location-salary p small svg{
+     margin: -5px 0px;
+    
+}

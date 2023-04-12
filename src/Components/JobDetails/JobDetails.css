@@ -1,0 +1,47 @@
+
+.job-details-container{
+    margin-top: 100px;
+}
+.job-details-container h2{
+    text-align: center;
+    font-size: 45px;
+}
+.job-details{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    padding: 30px 48px;
+    margin-top: 80px;
+    position: relative;
+}
+
+.job-details-info{
+    width: 50%;
+    padding: 15px;
+  
+}
+.job-details-card {
+    width: 40%;
+    margin-left: 70px;
+    border: 2px solid whitesmoke;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0px 0px 12px #888888;
+}
+.job-details-info p , .job-details-card p{
+    font-size: 20px;
+    font-weight: 700;
+}
+.job-details-info span , .job-details-card span{
+    color: #757575;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 33px;
+
+}
+.apply-button{
+    position: absolute;
+    right: 145px;
+    width: 34%;
+
+}

@@ -1,0 +1,31 @@
+.single-job-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 10px;
+    text-align: center;
+  
+}
+.features-section-title{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-weight: 800;
+    font-size: 48px;
+}
+.features-desc{
+    color: #757575;
+    text-align: center;
+    font-size: 21px;
+    width: 70%;
+    margin: 0 auto;
+    line-height: 33px;
+
+}
+.job-features-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 60px 0px;
+    margin-top: 50px;  
+    
+}
